@@ -128,7 +128,7 @@ main .icon-list {
 	margin-top: 20px;
 	text-align: center;
 	padding: 0px;
-	width: 260px;
+	width: 350px;
 }
 
 main .icon-list > li {
@@ -179,13 +179,13 @@ main .icon-list > li.linkedin:hover {
 	background: #0976b4;
 }
 
-.icon-list > li.medium {
-	border-color: #02b875;
-	color: #02b875;
+.icon-list > li.quora {
+	border: none;
+	color: #a62100;
 }
 
-main .icon-list > li.medium:hover {
-	background: #02b875;
+main .icon-list > li.quora:hover {
+	background: #a62100;
 }
 
 main .icon-list > li.facebook {
@@ -204,6 +204,17 @@ main .icon-list > li.email {
 
 main .icon-list > li.email:hover {
 	background: #777;
+}
+
+main .icon-list > li.stack {
+	border:none;
+	color: #FF9900
+;
+}
+
+main .icon-list > li.stack:hover {
+	background: #FF9900
+;
 }
 
 main .icon-list li > a,
