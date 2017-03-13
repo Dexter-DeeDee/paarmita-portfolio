@@ -4,11 +4,11 @@
             "value": 60,
             "density": {
                 "enable": true,
-                "value_area": 500
+                "value_area": 400
             }
         },
         "color": {
-            "value": "#33a7ff"
+            "value": "random"
         },
         "shape": {
             "type": "circle",
@@ -36,7 +36,7 @@
             }
         },
         "size": {
-            "value": 5,
+            "value": 4,
             "random": true,
             "anim": {
                 "enable": false,
