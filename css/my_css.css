@@ -162,7 +162,7 @@ main .icon-list > li:hover > a {
 }
 
 main .icon-list > li.twitter {
-	border-color: #1da1f2;
+	border:none;
 	color: #1da1f2;
 }
 
@@ -171,7 +171,7 @@ main .icon-list > li.twitter:hover {
 }
 
 main .icon-list > li.linkedin {
-	border-color: #0976b4;
+	border:none;
 	color: #0976b4;
 }
 
@@ -189,7 +189,7 @@ main .icon-list > li.quora:hover {
 }
 
 main .icon-list > li.facebook {
-	border-color: #3b5998;
+	border:none;
 	color: #3b5998;
 }
 
@@ -197,8 +197,19 @@ main .icon-list > li.facebook:hover {
 	background: #3b5998;
 }
 
+main .icon-list > li.med {
+	border:none;
+	color: #00ab6b;
+}
+
+main .icon-list > li.med:hover {
+	background: #00ab6b;
+}
+
+
+
 main .icon-list > li.email {
-	border-color: #777;
+	border:none;
 	color: #777;
 }
 
